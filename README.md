@@ -1,12 +1,12 @@
 # iOS13-Xylophone-App
 
-Xylophone App -Learning to Code While Building Apps - I am one of the students of the App Brewery in the course, "iOS 13 &amp;amp; Swift 5 - The Complete iOS App Development Bootcamp". This project we are uploading the finished product coming from this module. 
+Xylophone App - Learning to Code While Building Apps - I am one of the students of the App Brewery in the course, "iOS 13 &amp;amp; Swift 5 - The Complete iOS App Development Bootcamp". This project we are uploading the finished product coming from this module. 
 
 Module 7: Using and Understanding Apple Documentation
 
 App: Xylophone 
 
-![Alt Text](https://media.giphy.com/media/Y0yMeUo9GmR6QssZiy/giphy.gif)
+![Alt Text](https://media.giphy.com/media/LmwiNYtUo5JOAUXTTW/giphy.gif)
 
 
 
